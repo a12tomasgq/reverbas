@@ -692,7 +692,7 @@ p + hr {
 }
 /* ================= Homepage Featured Columns ================= */
 .featured_bg {
-	background:#url("../images/featured_bg.png") no-repeat top center;
+	background: url("../images/featured_bg.png") no-repeat top center;
 }
 .featured_block {
 	text-align:center;
@@ -2027,7 +2027,7 @@ label span {
 .tweet .hour {
 	font-size:10px;
 	line-height:11px;
-	color:##B2B2B6;
+	color:#B2B2B6;
 }
 /* ================= Blockquote ================= */
 blockquote.right {
